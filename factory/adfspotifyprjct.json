@@ -1,0 +1,15 @@
+{
+	"name": "adfspotifyprjct",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bd127b3-0119-40e9-89db-1ecca6fdd90a",
+		"tenantId": "061bfd34-1310-4ac1-9576-e85624d909c3"
+	}
+}
